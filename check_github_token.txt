@@ -1,0 +1,6 @@
+检查 GitHub Personal Access Token
+
+检查路径:
+1. D:\openclaw\workspace\.git\config (查看是否有 token 配置)
+2. D:\openclaw\workspace\ENV\github_token.txt (如果有保存)
+3. 系统环境变量 GITHUB_TOKEN

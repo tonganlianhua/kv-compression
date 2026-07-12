@@ -1,0 +1,10 @@
+# Python
+python>=3.10
+
+# Deep learning
+transformers>=4.57.0
+torch>=2.11.0
+
+# Utilities
+packaging>=26.0
+numpy>=1.26.0

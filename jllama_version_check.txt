@@ -1,0 +1,4 @@
+J:\llama-b9968-bin-win-cuda-13.3-x64
+目标: 检查 llama.cpp 版本兼容性
+- TurboQuant 支持 (KV Compression v2.0)
+- MTP (Multi-Token Prediction) 支持
